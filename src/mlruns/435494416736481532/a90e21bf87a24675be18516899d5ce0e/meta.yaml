@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/users/ingri/desktop/%28ingrid%20lbd%29%20ing%C3%A9%203%20s1/projet%20mlops/heart/src/mlruns/435494416736481532/a90e21bf87a24675be18516899d5ce0e/artifacts
+end_time: 1762455036572
+entry_point_name: ''
+experiment_id: '435494416736481532'
+lifecycle_stage: active
+run_id: a90e21bf87a24675be18516899d5ce0e
+run_name: dashing-boar-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455034580
+status: 4
+tags: []
+user_id: Ingri

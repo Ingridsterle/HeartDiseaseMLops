@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ingri/Desktop/%28Ingrid%20LBD%29%20Ing%C3%A9%203%20S1/PROJET%20MLops/heart/mlruns/535198945579027399/cd861ee307b141e6a7b370faecbf19fa/artifacts
+end_time: 1762454824883
+entry_point_name: ''
+experiment_id: '535198945579027399'
+lifecycle_stage: active
+run_id: cd861ee307b141e6a7b370faecbf19fa
+run_name: classy-moose-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762454824751
+status: 4
+tags: []
+user_id: Ingri

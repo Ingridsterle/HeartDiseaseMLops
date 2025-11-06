@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/users/ingri/desktop/%28ingrid%20lbd%29%20ing%C3%A9%203%20s1/projet%20mlops/heart/src/mlruns/435494416736481532/c9b641edca5b4e36843932795c96a342/artifacts
+end_time: 1762455237512
+entry_point_name: ''
+experiment_id: '435494416736481532'
+lifecycle_stage: active
+run_id: c9b641edca5b4e36843932795c96a342
+run_name: abrasive-whale-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455235220
+status: 3
+tags: []
+user_id: Ingri

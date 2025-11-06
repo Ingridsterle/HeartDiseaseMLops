@@ -1,0 +1,10 @@
+
+
+pandas
+scikit-learn
+tensorflow
+mlflow
+dvc
+joblib
+ 
+ 

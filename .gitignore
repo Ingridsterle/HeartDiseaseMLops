@@ -1,0 +1,25 @@
+# Environnements virtuels
+venv/
+__pycache__/
+
+# Fichiers de données
+Data/raw/
+Data/processed/
+
+# Modèles entraînés
+models/
+
+# Fichiers temporaires d'IDE
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.swn
+*.log
+
+# Configuration IDE
+.vscode/
+.spyderproject
+.spyproject
