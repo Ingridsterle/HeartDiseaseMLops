@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Thu Nov  6 19:23:47 2025
@@ -23,3 +24,7 @@ Le projet suit un workflow MLops complet :
 
 ## Structure du projet
 
+=======
+# HeartDiseaseMLops
+MLops
+>>>>>>> ffe2e82d2e15fdf46182118d59a06cdc4234c29f
